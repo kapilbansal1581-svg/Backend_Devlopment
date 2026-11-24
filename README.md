@@ -41,4 +41,4 @@ Laboratory experiments and backend projects:
 
 ![]()
 Published site
-The GitHub Pages site is available at https://tnmydna.github.io/BackendDevelopment/
+The GitHub Pages site is available at https://kapilbansal1581-svg.github.io/Backend_Devlopment/
